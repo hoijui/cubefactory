@@ -62,7 +62,7 @@ development-stage: prototpye                 # text
 made: true                         # boolean - true or false
 
 sub:  
-  title: RepRap Prusa i3 Hephestos                          # text | Title of the original
+- title: RepRap Prusa i3 Hephestos                          # text | Title of the original
   web: http://reprap.org/wiki/Prusa_i3_Hephestos                          # URL - Absolute path | web presence location
 
 # License 
